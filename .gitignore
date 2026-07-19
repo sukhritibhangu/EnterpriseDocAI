@@ -8,3 +8,7 @@ __pycache__/
 data/uploads/
 data/chroma/
 chroma_db/
+
+# Deliverables (local only)
+deliverables/
+generate_pdf.py
