@@ -6,4 +6,5 @@ __pycache__/
 
 # Data and DB
 data/uploads/
+data/chroma/
 chroma_db/
